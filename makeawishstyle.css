@@ -1,0 +1,20 @@
+body{
+	font-family:verdana;
+	font-size:30px;
+	width:800px;
+	margin:0px;
+	padding:0px;
+}
+.pond-photo img{
+	width:2000px;
+	height:1800px;
+	position:relative;
+}
+.coin-photo img{
+	width:400px;
+	height:400px;
+}
+.instruction h1{
+	margin:20px;
+	padding:20px;
+}
